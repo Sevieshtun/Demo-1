@@ -1,0 +1,48 @@
+
+<!doctype html>
+<html>
+    <h3>HTML</h3>
+    <body style="color: brown;"></body>
+    <table border="5" cellspacing="5" cellpadding="5">
+        <caption>Name Table</caption>
+        <tr>
+            <th>Name</th>
+            <th>Place</th>
+            <th>Age</th>
+            <th>Mobile</th>
+            <th>Land Number</th>
+        </tr>
+        <tr>
+            <td>Sevieshtun</td>
+            <td>Jaffna</td>
+            <td>21</td>
+        </tr>
+    </table>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

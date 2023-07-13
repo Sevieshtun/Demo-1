@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <tabel border="10"  cellspeacing="10">
+        <tr>
+            <th rowspan="2">Name</th>
+            <th colspan="3">Telephone.No</th>
+
+        </tr>
+    </tabel>
+</html>

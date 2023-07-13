@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <h3>HTML</h3>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Place</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>XYZ</td>
+            <td>Jaffna</td>
+            <td>58</td>
+        </tr>
+    </table>
+
+</html>

@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <H1>Home Training 4</H1>
+    <table border="4" cellspacing="4" cellpadding="4">
+        <caption>Name Table</caption>
+        <tr>
+        <th>Name </th>
+        <th>Age</th>
+        <th>School</th>
+        <th>From</th>
+        </tr>
+
+        <tr>
+            <td>Sevieshtun</td>
+            <td>21</td>
+            <td>Jaffna Hindu College</td>
+            <td>Jaffna</td>
+        </tr>
+        </table>
+    </table>
+    
+</html>
